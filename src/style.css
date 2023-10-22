@@ -1,0 +1,14 @@
+.tof{
+    max-width: 100%;
+    height: auto; 
+}
+.pl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.pl1{
+    background-image: URL('https://us.123rf.com/450wm/eigens/eigens1911/eigens191101438/133393836-fum%C3%A9e-blanche-abstraite-illustration-de-fond-de-couleur-gris-pastel-et-gris-clair-peut-%C3%AAtre.jpg?ver=6');
+    
+}
