@@ -1,6 +1,7 @@
 
 import Players from "./Players";
 import Pla from "./Player";
+//pour manipule card  
 const PlayersList = () => {
   return (
     <div>
